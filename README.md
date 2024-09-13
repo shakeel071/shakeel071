@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning **Frontend development**
 
 - 📫 How to reach me **Shakeelmohammed474@gmail.com**
-  -You can View my Projects through this link **https://shakeel071.github.io/PortFolio/**
+
+.You can View my Projects through this link **https://shakeel071.github.io/PortFolio/**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
